@@ -4,47 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd59d2ce-5e9a-49fa-a855-caf7195c117f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/goweb3manager.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buy.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/IERC20/IERC20.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/IPancakeFactory/IPancakeFactory.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/IPancakePair/IPancakePair.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/IPancakeRouter01/IPancakeRouter01.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/IPancakeRouter02/IPancakeRouter02.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/IWETH/IWETH.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/PancakeLibrary/PancakeLibrary.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/PancakeRouter/PancakeRouter.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/PancakeTestnetContract.sol" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/SafeMath/SafeMath.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/TransferHelper/TransferHelper.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/build/IERC20.abi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/build/IERC20.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/build/IPancakeFactory.abi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/build/IPancakeFactory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/build/IPancakePair.abi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/build/IPancakePair.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/build/IPancakeRouter01.abi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/build/IPancakeRouter01.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/build/IPancakeRouter02.abi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/build/IPancakeRouter02.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/build/IWETH.abi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/build/IWETH.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/build/PancakeLibrary.abi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/build/PancakeLibrary.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/build/PancakeRouter.abi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/build/PancakeRouter.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/build/SafeMath.abi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/build/SafeMath.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/build/Store.abi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/build/Store.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/build/TransferHelper.abi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/build/TransferHelper.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sell.go.bak" beforeDir="false" />
-    </list>
+    <list default="true" id="cd59d2ce-5e9a-49fa-a855-caf7195c117f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,11 +33,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="go.format.on.save.advertiser.fired" value="true" />
     <property name="go.formatter.settings.were.checked" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/nikola43/web3manager" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="chainlinconsumer" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/nikola43/web3manager" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/nikola43/web3manager" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -89,6 +66,7 @@
       <updated>1649473423242</updated>
       <workItem from="1649473424731" duration="18000" />
       <workItem from="1649473451598" duration="9000" />
+      <workItem from="1649473529055" duration="428000" />
     </task>
     <servers />
   </component>
