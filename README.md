@@ -2,6 +2,18 @@
 # goweb3manager
 
 
+cd $GOPATH/src/github.com/ethereum/go-ethereum/
+
+go build
+go install
+make
+make devtools
+
+sudo add-apt-repository ppa:ethereum/ethereum
+ sudo apt-get update
+ sudo apt-get install solc
+
+
 
 
 abigen --abi=AccessControllerInterface.abi --pkg=AccessControllerInterface --out=AccessControllerInterface.go
