@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd59d2ce-5e9a-49fa-a855-caf7195c117f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/goweb3manager.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buy.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/IERC20/IERC20.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/IPancakeFactory/IPancakeFactory.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/IPancakePair/IPancakePair.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/IPancakeRouter01/IPancakeRouter01.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/IPancakeRouter02/IPancakeRouter02.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/IWETH/IWETH.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/PancakeLibrary/PancakeLibrary.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/PancakeRouter/PancakeRouter.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/PancakeTestnetContract.sol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/SafeMath/SafeMath.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/TransferHelper/TransferHelper.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/IERC20.abi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/IERC20.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/IPancakeFactory.abi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/IPancakeFactory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/IPancakePair.abi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/IPancakePair.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/IPancakeRouter01.abi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/IPancakeRouter01.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/IPancakeRouter02.abi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/IPancakeRouter02.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/IWETH.abi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/IWETH.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/PancakeLibrary.abi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/PancakeLibrary.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/PancakeRouter.abi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/PancakeRouter.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/SafeMath.abi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/SafeMath.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/Store.abi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/Store.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/TransferHelper.abi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/TransferHelper.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell.go.bak" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="e7mr2vw7" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27XjeqWL1xPQvvvO2eegLAadaD7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd59d2ce-5e9a-49fa-a855-caf7195c117f" name="Changes" comment="" />
+      <created>1649473423242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649473423242</updated>
+      <workItem from="1649473424731" duration="18000" />
+      <workItem from="1649473451598" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+</project>
