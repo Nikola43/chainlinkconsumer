@@ -1,5 +1,5 @@
 
-# goweb3manager
+# chainlink DATAFEEDS consumer
 
 
 cd $GOPATH/src/github.com/ethereum/go-ethereum/
